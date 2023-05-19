@@ -6,8 +6,8 @@
 ### Briefly, the repo contains:
 
   • **(1) Extraction of flow characteristics in the form of distributions.** The following features are extracted at the flow level:
-    - Flow size (bytes)
-    - Flow duration (sec)
+- Flow size (bytes)
+- Flow duration (sec)
   
   • **(2) Header-based choices.** The packets are grouped into streams based on the following header fields:
     - Sender's IP address
