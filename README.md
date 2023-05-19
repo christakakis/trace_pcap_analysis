@@ -10,11 +10,11 @@
 - Flow duration (sec)
   
   • **(2) Header-based choices.** The packets are grouped into streams based on the following header fields:
-    - Sender's IP address
-    - Receiver's IP address
-    - Sender's port number
-    - Receiver's port number
-    - Protocol (TCP or UDP)
+- Sender's IP address
+- Receiver's IP address
+- Sender's port number
+- Receiver's port number
+- Protocol (TCP or UDP)
   
   • **(3) Extraction of packet size distribution.** We plot the packet size distribution which is extracted from all flows available in the .pcap file.
   
