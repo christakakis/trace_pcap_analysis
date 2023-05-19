@@ -9,7 +9,7 @@
 - Flow size (bytes)
 - Flow duration (sec)
   
-• **(2) Header-based choices.** The packets are grouped into streams based on the following header fields:
+• **(2) Header-based choices.** The packets are grouped into flows based on the following header fields:
 - Sender's IP address
 - Receiver's IP address
 - Sender's port number
